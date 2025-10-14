@@ -1,2 +1,2 @@
-# Logicadeprograma-aodj-SESI-SENAI
-Reprosetorio para aulas do SENAI
+# logicaDeProgramacaoDJ_SESI-SENAI
+Repositório das aulas SENAI.
